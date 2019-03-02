@@ -774,10 +774,11 @@ ol {
 	overflow: hidden;
 	.ti-content {
 		background: #eef6f9;
-		padding: 48px ;
+		padding: 40px ;
 		border-radius: 15px;
 		margin-bottom: 42px;
 		position: relative;
+		back
 
 		p {
 			font-size: 15px;
@@ -810,7 +811,7 @@ ol {
 			font-weight: 700;
 		}
 		span {
-			color: $button_color;
+			color: $text_color;
 			font-weight: 700;
 		}
 	}

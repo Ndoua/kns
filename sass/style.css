@@ -586,11 +586,12 @@ ol {
   overflow: hidden; }
   .testimonial-item .ti-content {
     background: #eef6f9;
-    padding: 48px;
+    padding: 40px;
     border-radius: 15px;
     margin-bottom: 42px;
     position: relative; }
-    .testimonial-item .ti-content p {
+    .testimonial-item .ti-content back
+    p {
       font-size: 15px;
       margin-bottom: 0; }
     .testimonial-item .ti-content:after {
@@ -1077,7 +1078,7 @@ ol {
     margin-left: 20px; }
 
   .service-box:nth-child(1) {
-    background: #ff8264; }
+    background: #0a6cff; }
 
   .service-box-image {
     padding: 100px 30px 50px; }
