@@ -359,35 +359,6 @@ ol {
     font-size: 18px;
     margin-bottom: 0; }
 
-.social {
-  display: -ms-flex;
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex; }
-  .social a {
-    display: -ms-inline-flex;
-    display: -webkit-inline-box;
-    display: -ms-inline-flexbox;
-    display: inline-flex;
-    width: 32px;
-    height: 32px;
-    color: #0a0228;
-    background: #FF8264;
-    -webkit-box-align: center;
-    -ms-flex-align: center;
-    align-items: center;
-    -webkit-box-pack: center;
-    -ms-flex-pack: center;
-    justify-content: center;
-    border-radius: 50%;
-    margin-right: 13px;
-    font-size: 12px;
-    -webkit-transition: all 0.4s;
-    -o-transition: all 0.4s;
-    transition: all 0.4s; }
-    .social a:hover {
-      background: #0a6cff; }
-
 /***** Top menu *****/
 /***** Navbar *****/
 @media (min-width: 768px) {
@@ -1076,9 +1047,6 @@ ol {
 
   .footer-menu li a {
     margin-left: 20px; }
-
-  .service-box:nth-child(1) {
-    background: #0a6cff; }
 
   .service-box-image {
     padding: 100px 30px 50px; }

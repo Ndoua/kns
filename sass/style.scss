@@ -475,37 +475,6 @@ ol {
 	}
 }
 
-.social {
-	display: -ms-flex;
-	display: -webkit-box;
-	display: -ms-flexbox;
-	display: flex;
-	a {
-		display: -ms-inline-flex;
-		display: -webkit-inline-box;
-		display: -ms-inline-flexbox;
-		display: inline-flex;
-		width: 32px;
-		height: 32px;
-		color: $text_color2;
-		background: $bg_color2;
-		-webkit-box-align: center;
-		-ms-flex-align: center;
-		align-items: center;
-		-webkit-box-pack: center;
-		-ms-flex-pack: center;
-		justify-content: center;
-		border-radius: 50%;
-		margin-right: 13px;
-		font-size: 12px;
-		-webkit-transition: all 0.4s;
-		-o-transition: all 0.4s;
-		transition: all 0.4s;
-		&:hover {
-			background: $footer_color;
-		}
-	}
-}
 
 
 /***** Top menu *****/
@@ -1394,9 +1363,7 @@ ol {
 	.footer-menu li a {
 		margin-left: 20px;
 	}
-	.service-box:nth-child(1) {
-		background: $footer_color;
-	}
+
 	.service-box-image {
 		padding: 100px 30px 50px;
 	}
