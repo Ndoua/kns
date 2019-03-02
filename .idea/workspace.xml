@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6452c7c5-d5a0-457d-8e69-651bf8c212be" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,8 +16,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="441" column="18" lean-forward="true" selection-start-line="441" selection-start-column="18" selection-end-line="441" selection-end-column="18" />
+            <state relative-caret-position="252">
+              <caret line="501" column="14" lean-forward="true" selection-start-line="501" selection-start-column="14" selection-end-line="501" selection-end-column="14" />
               <folding>
                 <element signature="n#style#0;n#strong#1;n#p#0;n#div#5;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#STYLE#0;n#strong#2;n#p#0;n#div#5;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -178,18 +179,18 @@
       <option name="presentableId" value="Default" />
       <updated>1551373789833</updated>
       <workItem from="1551373790934" duration="45608000" />
-      <workItem from="1551528656077" duration="15268000" />
+      <workItem from="1551528656077" duration="16116000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="60876000" />
+    <option name="totallyTimeSpent" value="61724000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1720" height="1415" extended-state="4" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16287425" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16287425" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -202,7 +203,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32924962" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32924962" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -374,8 +375,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="441" column="18" lean-forward="true" selection-start-line="441" selection-start-column="18" selection-end-line="441" selection-end-column="18" />
+        <state relative-caret-position="252">
+          <caret line="501" column="14" lean-forward="true" selection-start-line="501" selection-start-column="14" selection-end-line="501" selection-end-column="14" />
           <folding>
             <element signature="n#style#0;n#strong#1;n#p#0;n#div#5;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#STYLE#0;n#strong#2;n#p#0;n#div#5;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
